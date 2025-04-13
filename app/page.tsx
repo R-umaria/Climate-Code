@@ -15,12 +15,12 @@ export default function Home() {
               Explore how algorithms, smart energy systems, and ethical data design are shaping our response to the
               climate crisis.
             </p>
-            <Link href="/climate-modeling">
-              <Button className="bg-white text-teal-600 hover:bg-gray-100 hover:text-teal-700">
+            <Button asChild className="bg-white text-teal-600 hover:bg-gray-100 hover:text-teal-700">
+              <Link href="/climate-modeling">
                 Explore the Topics
                 <ArrowRight className="ml-2 h-4 w-4" />
-              </Button>
-            </Link>
+              </Link>
+            </Button>
           </div>
         </div>
         <div className="absolute bottom-0 right-0 opacity-20">
