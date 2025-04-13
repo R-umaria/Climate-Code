@@ -18,7 +18,7 @@ export default function EnvironmentalImpact() {
             <div className="mb-8">
               <div className="mb-4">
                 <Image
-                  src="/assets/datacentre.jpg"
+                  src="/assets/data-center-energy.jpg"
                   alt="Data Center with Complex Wiring and LED Power Indicators"
                   width={350}
                   height={200}

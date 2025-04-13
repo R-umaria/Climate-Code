@@ -29,7 +29,7 @@ export default function EthicalVisuals() {
               <div className="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg mb-4">
                 <div className="aspect-w-16 aspect-h-9 flex items-center justify-center">
                   <Image
-                    src="/placeholder.svg?height=300&width=600"
+                    src="/assets/ethical.jpg"
                     alt="Ethical dual-axis graph comparing power usage and whitespace"
                     width={600}
                     height={300}
@@ -97,7 +97,7 @@ export default function EthicalVisuals() {
               <div className="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg mb-4">
                 <div className="aspect-w-16 aspect-h-9 flex items-center justify-center">
                   <Image
-                    src="/placeholder.svg?height=300&width=600"
+                    src="/assets/misleading.jpg"
                     alt="Misleading bar graph with truncated y-axis"
                     width={600}
                     height={300}
